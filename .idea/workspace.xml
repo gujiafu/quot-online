@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f79079cd-b57b-4712-b45a-efa2c021734c" name="Default Changelist" comment="" />
+    <list default="true" id="f79079cd-b57b-4712-b45a-efa2c021734c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +43,10 @@
       <find>openPrice</find>
       <find>sse.sector.topic</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -130,6 +137,7 @@
     <option name="height" value="980" />
   </component>
   <component name="ProjectId" id="1tqETR7GmRLDj5DBBBaNSvu1SND" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -307,6 +315,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../quot-web" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
@@ -394,6 +403,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuotApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="quot-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiaopeng.QuotApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="QuotApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="quot-web" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.QuotApplication" />
@@ -439,6 +468,8 @@
       <workItem from="1628303146286" duration="1331000" />
       <workItem from="1628903595515" duration="1262000" />
       <workItem from="1629245428491" duration="17000" />
+      <workItem from="1650813123351" duration="340000" />
+      <workItem from="1650813602402" duration="1116000" />
     </task>
     <servers />
   </component>
