@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f79079cd-b57b-4712-b45a-efa2c021734c" name="Default Changelist" comment="" />
+    <list default="true" id="f79079cd-b57b-4712-b45a-efa2c021734c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -313,7 +315,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -400,19 +402,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="QuotApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="quot-web" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiaopeng.QuotApplication" />
@@ -466,7 +455,8 @@
       <workItem from="1628903595515" duration="1262000" />
       <workItem from="1629245428491" duration="17000" />
       <workItem from="1650813123351" duration="340000" />
-      <workItem from="1650813602402" duration="1429000" />
+      <workItem from="1650813602402" duration="1876000" />
+      <workItem from="1650815521685" duration="158000" />
     </task>
     <servers />
   </component>
@@ -542,6 +532,12 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../bigdata01" />
+      <path value="$PROJECT_DIR$/../quot-web" />
+    </ignored-roots>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

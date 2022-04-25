@@ -6,17 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="quot-web" />
         <module name="druid" />
         <module name="itcast_real_quot" />
         <module name="producer" />
-        <module name="bigdata01" />
-        <module name="bigdata01 (1)" />
         <module name="avro" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="bigdata01" target="1.8" />
+      <module name="bigdata01 (1)" target="1.8" />
       <module name="bigdata01 (2)" target="1.8" />
+      <module name="quot-web" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
