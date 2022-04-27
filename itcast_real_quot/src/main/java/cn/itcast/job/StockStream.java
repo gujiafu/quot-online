@@ -8,7 +8,6 @@ import cn.itcast.map.SseMap;
 import cn.itcast.map.SzseMap;
 import cn.itcast.config.QuotConfig;
 import cn.itcast.task.*;
-import com.xiaopeng.task.*;
 import cn.itcast.util.QuotUtil;
 import org.apache.flink.api.common.functions.FilterFunction;
 import org.apache.flink.streaming.api.TimeCharacteristic;
