@@ -15,3 +15,4 @@
 *.tar.gz
 *.rar
 /.idea/
+/druid/target/

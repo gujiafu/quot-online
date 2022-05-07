@@ -21,7 +21,7 @@ public class DruidJdbcDemo {
          */
         Class.forName("org.apache.calcite.avatica.remote.Driver");
         //2.获取Druid JDBC连接
-        Connection conn = DriverManager.getConnection("jdbc:avatica:remote:url=http://node01:8888/druid/v2/sql/avatica/ ");
+        Connection conn = DriverManager.getConnection("jdbc:avatica:remote:url=http://node3:8888/druid/v2/sql/avatica/ ");
         //3.构建SQL语句
         String sql = "SELECT * FROM \"metrics-kafka\"";
         //4.构建Statement，执行SQL获取结果集
